@@ -1,41 +1,50 @@
 ---
-title: Ready To Drive Driving School
-subtitle: Driving school
+title: Ready To Drive
+subtitle: Driving School
 image: /img/logo.svg
 blurb:
-  heading: Why Kaldi?
-  text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Why Ready to Drive?
+  text: >
+    Ready to drive Driving School provides a safe and educational driving
+    experience for new drivers. We operate our services all around Melbourne
+    mainly Pakenham, Frankston, Dandenong, Heatherton. Please feel to contact
+    our friendly team.
 intro:
   heading: What we offer
-  text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  text: >
+    Ready to Drive Driving School offers the most comprehensive program
+    developed for the purpose of providing important information relating to the
+    needs of new and experienced motorists. We have been serving new students,
+    adults and teenagers since longtime. Contact to our office and see how we
+    create a fun, safe and educational environment for you to become a new
+    driver.
 products:
-  - image: img/illustrations-coffee.svg
-    text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: /img/apple-touch-icon.png
+    text: |-
+      45 min
+
+      $40
+
+      60 min
+
+      $50
 values:
   heading: Our values
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    Our goal is to make Melbourne Roads as safe as possible. Therefore, we have
+    put countless hours into refining our driver training programs and driving
+    lessons to ensure they:
+
+    Effectively prepare our students for their road tests
+
+    Are taught by highly trained driving instructors
+
+    Are flexible and offered frequently to fit our driver ed students busy
+    schedules
+
+    Graduate responsible drivers who understand the principles of Beginner
+    driving
+
+    Train the safe drivers of tomorrow
 ---
 
