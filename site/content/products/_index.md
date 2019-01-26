@@ -56,7 +56,14 @@ pricing:
       price: '50'
     - description: Preperation and vehicle for Vic Roads driving test.
       items:
-        - 2 hour pre-exam lesson
+        - 45 minutes pre-exam lesson
+        - Certified car for VicRoads Drive Test
+        - ''
+      plan: Driving Exam
+      price: '160'
+    - description: Preperation and vehicle for Vic Roads driving test.
+      items:
+        - 1 hour pre-exam lesson
         - Certified car for VicRoads Drive Test
         - ''
       plan: Driving Exam
