@@ -3,25 +3,24 @@ title: Lessons
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Ready to Drive Driving School offers the most comprehensive program developed
+  for the purpose of providing important information relating to the needs of
+  new and experienced motorists. We have been serving new students, adults and
+  teenagers since longtime. Contact to our office and see how we create a fun,
+  safe and educational environment for you to become a new driver.
 intro:
   blurbs: []
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Ready to Drive Driving School offers the most comprehensive program
+    developed for the purpose of providing important information relating to the
+    needs of new and experienced motorists. We have been serving new students,
+    adults and teenagers since longtime. Contact to our office and see how we
+    create a fun, safe and educational environment for you to become a new
+    driver.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: ''
+  description: ''
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
