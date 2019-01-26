@@ -59,42 +59,35 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+  - {}
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Lessons
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We are open to teach at all levels of driving. From the basics never been
+    behind a wheel, to last minute practice before exam. 
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: >-
+        Get behind the wheel and learn the basics and driving rules. For
+        first-timers and above. 
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
+        - Driving instruction
+        - ''
+      plan: 45 minutes
+      price: '40'
+    - description: >-
+        Get behind the wheel and learn the basics and driving rules. For
+        first-timers and above. 
+      items:
+        - Driving instruction
+      plan: 60 minutes
       price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+    - description: Preperation and vehicle for Vic Roads driving test.
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - 2 hour pre-exam lesson
+        - Certified car for VicRoads Drive Test
+        - ''
+      plan: Driving Exam
+      price: '170'
 ---
 
