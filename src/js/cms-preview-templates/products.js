@@ -37,31 +37,7 @@ export default class PostPreview extends React.Component {
         </div>
       </div>
 
-      <div className="mw7 center ph3 pv4">
 
-        <div className="flex flex-wrap mhn1">
-          <div className="w-100 w-50-ns ph1-ns">
-            <img src={getAsset(entry.getIn(["data", "main", "image1", "image"]))}/>
-          </div>
-
-          <div className="w-100 w-50-ns ph1-ns">
-            <img src={getAsset(entry.getIn(["data", "main", "image2", "image"]))}/>
-          </div>
-
-          <div className="w-100 ph1-ns">
-            <img src={getAsset(entry.getIn(["data", "main", "image3", "image"]))}/>
-          </div>
-        </div>
-      </div>
-
-      <div className="pb4">
-        {(entry.getIn(['data', 'testimonials']) || []).map((testimonial, index) => <div className="center mb3 ph3" key={index}>
-        	<blockquote className="bg-grey-1 primary pa3 mb3 br1 b mw6 center">
-        		<p className="f4 mb0">“{testimonial.get('quote')}”</p>
-        		<cite className="tr db grey-3">{testimonial.get('author')}</cite>
-        	</blockquote>
-        </div>)}
-      </div>
 
       <img src={getAsset(entry.getIn(['data', 'full_image']))} alt="" className="db w-100"/>
 
