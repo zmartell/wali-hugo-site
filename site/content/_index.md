@@ -1,7 +1,7 @@
 ---
-title: Ready To Drive
-subtitle: Driving School
-image: /img/logo.svg
+title: 
+subtitle: 
+image: /img/logo.jpg
 blurb:
   heading: Why Ready to Drive?
   text: >
