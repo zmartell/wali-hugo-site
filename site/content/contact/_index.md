@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/logo.svg
+logo: /img/logo.jpg
 contact_entries:
   - heading: Phone number
     text: +61 431016378
