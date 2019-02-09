@@ -1,7 +1,7 @@
 ---
 title: 
 subtitle: 
-image: /img/logo.jpg
+image: /img/logo.svg
 blurb:
   heading: Why Ready to Drive?
   text: >
