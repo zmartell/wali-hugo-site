@@ -1,6 +1,5 @@
 ---
 title: Lessons
-image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
   Ready to Drive Driving School offers the most comprehensive program developed
