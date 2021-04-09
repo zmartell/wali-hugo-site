@@ -19,7 +19,7 @@ intro:
     create a fun, safe and educational environment for you to become a new
     driver.
 products:
-  - image: /img/apple-touch-icon.png
+  - image: /img/logo.svg
     text: |-
       45 min
 
