@@ -1,6 +1,6 @@
 ---
-title: 
-subtitle: 
+title: Our Prices
+subtitle: 'Pricing '
 image: /img/logo.jpg
 blurb:
   heading: Why Ready to Drive?
@@ -23,11 +23,11 @@ products:
     text: |-
       45 min
 
-      $40
+      $170
 
       60 min
 
-      $50
+      $180
 values:
   heading: Our values
   text: >-
