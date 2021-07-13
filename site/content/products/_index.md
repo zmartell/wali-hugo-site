@@ -1,5 +1,6 @@
 ---
 title: Lessons
+image: /img/fb_img_1549700575862.jpg
 heading: What we offer
 description: >-
   Ready to Drive Driving School offers the most comprehensive program developed
@@ -22,6 +23,7 @@ main:
   description: ''
 testimonials:
   - {}
+full_image: /img/fb_img_1549700575862.jpg
 pricing:
   heading: Lessons
   description: >-
@@ -42,20 +44,20 @@ pricing:
       items:
         - Driving instruction
       plan: 60 minutes
-      price: '50'
+      price: '60'
     - description: Preperation and vehicle for Vic Roads driving test.
       items:
         - 45 minutes pre-exam lesson
         - Certified car for VicRoads Drive Test
         - ''
       plan: Driving Exam
-      price: '160'
+      price: '170'
     - description: Preperation and vehicle for Vic Roads driving test.
       items:
         - 1 hour pre-exam lesson
         - Certified car for VicRoads Drive Test
         - ''
       plan: Driving Exam
-      price: '170'
+      price: '180'
 ---
 
