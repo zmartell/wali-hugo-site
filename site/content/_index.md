@@ -23,11 +23,11 @@ products:
     text: |-
       45 min
 
-      $170
+      $40
 
       60 min
 
-      $180
+      $60
 values:
   heading: Our values
   text: >-
