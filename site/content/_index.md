@@ -1,6 +1,6 @@
 ---
-title: Our Prices
-subtitle: 'Pricing '
+title: Ready to Drive
+subtitle: Driving School
 image: /img/logo.jpg
 blurb:
   heading: Why Ready to Drive?
