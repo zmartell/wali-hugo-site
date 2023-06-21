@@ -58,6 +58,6 @@ pricing:
         - Certified car for VicRoads Drive Test
         - ''
       plan: Driving Exam
-      price: '180'
+      price: '220'
 ---
 
