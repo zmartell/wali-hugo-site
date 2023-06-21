@@ -37,7 +37,7 @@ pricing:
         - Driving instruction
         - ''
       plan: 45 minutes
-      price: '40'
+      price: '50'
     - description: >-
         Get behind the wheel and learn the basics and driving rules. For
         first-timers and above. 
@@ -51,7 +51,7 @@ pricing:
         - Certified car for VicRoads Drive Test
         - ''
       plan: Driving Exam
-      price: '170'
+      price: '200'
     - description: Preperation and vehicle for Vic Roads driving test.
       items:
         - 1 hour pre-exam lesson
