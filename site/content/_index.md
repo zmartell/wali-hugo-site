@@ -23,7 +23,7 @@ products:
     text: |-
       45 min
 
-      $40
+      $50
 
       60 min
 
